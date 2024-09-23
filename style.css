@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-div {
+    border: 2px solid rgb(255, 255, 0);
+    width: 100%;
+    min-height: 50px;
+}
+
+
+.contents-div {
+    border: 2px solid rgb(0, 0, 255);
+    width: 100%;
+    min-height: 50px;
+}
+
+
+.footer-div {
+    border: 2px solid rgb(255, 0, 0);
+    width: 100%;
+    min-height: 50px;
+}
